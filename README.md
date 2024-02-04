@@ -10,7 +10,8 @@ rtps.draw_graphs()
 ~~~
 
 # Image
-![screenshot]()
+![screenshot](https://github.com/15jdberry/simulation_random_ticker_price/assets/148604533/63befd3d-2c09-4099-974e-ed1d7eaf4a85)
+
 
 # Dependencies
 - [yfinance](https://pypi.org/project/yfinance/)
