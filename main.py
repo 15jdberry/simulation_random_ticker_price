@@ -35,6 +35,7 @@ class RandomTickerPriceSimulation:
         return round(last_quote, 2)
 
     def run_simulation(self):
+        """Simulate the price change with random motion"""
         for i in range(1, len(self.new_price_vector)):
             rando = random.randint(0, 10)
             if rando > 5:
